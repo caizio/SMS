@@ -1,0 +1,11 @@
+#ifndef _DataDir_
+#define _DataDir_
+#include <vector>
+#include <string>
+
+// 0-E. coli, 1-M. musculus, 2-S. pombe, 3-C. elegans, 4-S. cerevisiae, 5-A. thaliana, 6-D. Melanogaster, 7-HuRI
+extern std::vector<std::string> LNBL3DataSet;
+extern std::vector<std::string> seq;
+extern std::vector<std::string> datasetNames;
+
+#endif                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
