@@ -28,6 +28,9 @@ Where x represents which algorithm to run.
 ## note
 Before running the program, please divide the dataset as needed.
 
+## contact
+If you have any questions, you can contact me. My email is: caizio@qq.com
+
 ## 简介
 这些文件是论文
 《**Link prediction in protein-protein interaction network: a similarity multiplied similarity algorithm with paths of length three**》的C++实现
@@ -77,3 +80,6 @@ main.cpp 主函数
 
 ## SMS算法核心代码
 ![Alt text](image.png)
+
+## 联系
+如果你有什么问题，可以联系我，我的邮箱：caizio@qq.com
