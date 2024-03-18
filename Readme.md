@@ -9,7 +9,7 @@ Where x represents which algorithm to run.
 
 0 - Partition Dataset
 
-1 - Comparative experiment
+1 - Compare our method with other methods
 
 2 - Verify the impact of different similarities on the algorithms
 
