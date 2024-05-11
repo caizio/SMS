@@ -99,7 +99,7 @@ main.cpp 主函数
 ## SMS算法核心代码
 ![Alt text](image.png)
 
-##引用
+## 引用
 @article{SMS,
 title = {Link prediction in protein-protein interaction network: A similarity multiplied similarity algorithm with paths of length three},
 journal = {Journal of Theoretical Biology},
