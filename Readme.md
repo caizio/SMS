@@ -50,7 +50,7 @@ doi = {https://doi.org/10.1016/j.jtbi.2024.111850},
 
 url = {https://www.sciencedirect.com/science/article/pii/S0022519324001310},
 
-author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang},
+author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang}
 }
 
 ## contact
@@ -124,7 +124,7 @@ doi = {https://doi.org/10.1016/j.jtbi.2024.111850},
 
 url = {https://www.sciencedirect.com/science/article/pii/S0022519324001310},
 
-author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang},
+author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang}
 }
 
 ## 联系
